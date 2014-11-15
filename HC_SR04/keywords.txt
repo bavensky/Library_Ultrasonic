@@ -1,0 +1,4 @@
+Ultrasonic	KEYWORD1
+trig	KEYWORD2
+echo	KEYWORD2
+check	KEYWORD2
