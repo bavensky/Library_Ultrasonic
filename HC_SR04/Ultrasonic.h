@@ -13,9 +13,7 @@ class Ultrasonic
 {
 	public:
 		Ultrasonic(int trigpin, int echopin);
-		void trig();
-		void echo();
-		long check();
+		long reading();
 		
 	private:
 		int _trigPin;
